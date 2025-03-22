@@ -1,0 +1,4 @@
+.venv
+.env
+spha.db
+ __pycache__
